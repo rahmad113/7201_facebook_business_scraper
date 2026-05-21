@@ -1,0 +1,87 @@
+warung 
+warung makan
+rumah makan
+cafe
+coffee shop
+warkop
+restoran
+depot
+catering
+katering
+bakery
+toko roti
+toko kue
+cake
+kedai
+mart
+pasar
+swalayan
+ruko
+drink
+toko
+store
+toko kelontong
+grosir
+toko kosmetik
+toko baju
+pakaian
+collection
+mode
+fotocopy
+fotokopi
+printing
+atk
+percetakan
+toko mainan
+toys
+lapak
+toko bangunan
+toko elektronik
+laundry
+servis
+service
+computer
+komputer
+jasa 
+rental
+pabrik
+konveksi
+sablon
+tailor
+dealer
+motor
+cuci motor
+agen
+parfum
+salon
+barbershop
+barber
+shop
+potong
+puskesmas
+rumah sakit
+klinik 
+apotek
+apotik
+skincare
+praktek dokter
+praktik dokter
+dental
+bimbel
+akademi
+lpk
+hotel
+penginapan
+homestay
+villa
+travel
+ekspedisi
+express
+kargo
+pakan 
+distributor
+mebel
+konter 
+pulsa
+cell
+kios

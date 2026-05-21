@@ -1,0 +1,37 @@
+# ==========================
+# Environment & Credentials
+# ==========================
+.env
+storage_state.json
+
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ==========================
+# Debug / Scratch Files
+# ==========================
+debug_fb.html
+parse_debug.py
+scratch_debug*.py
+
+# ==========================
+# Output Data
+# ==========================
+output/
+
+# ==========================
+# IDE / OS
+# ==========================
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
