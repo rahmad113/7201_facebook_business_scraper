@@ -96,7 +96,7 @@ Buka file `main.py` menggunakan Notepad atau editor teks. Di bagian atas, cari b
 ```python
 TARGET_TYPE = "group"              # Pilihan: "group" atau "account"
 TARGET_ID_GROUP = "787234888711411" # ID Grup Facebook
-TARGET_ID_ACCOUNT = "pojok.bangkep" # Username akun/halaman
+TARGET_ID_ACCOUNT = "100082853270304" # Username akun/halaman
 ```
 
 | Nilai `TARGET_TYPE` | Target Sasaran |
